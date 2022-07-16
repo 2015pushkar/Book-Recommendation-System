@@ -3,4 +3,4 @@ If an Recommendation System suggests items to a user based on past interactions 
 
 <a href='http://brs-python-pushkar.herokuapp.com/'></a>
 
-![http://url/to/img.png](http://url/to/img.png)
+![http://brs-python-pushkar.herokuapp.com](http://brs-python-pushkar.herokuapp.com)
